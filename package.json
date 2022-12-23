@@ -2,7 +2,7 @@
   "name": "@maks11060/vite-plugin-node-hmr",
   "type": "module",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": ["dist"],
   "types": "./dist/index.d.ts",
   "exports": {
